@@ -1,0 +1,26 @@
+KiboNews Privacy Policy
+
+Overview
+KiboNews is a free, ad‑free news reader built for distraction‑free reading. We respect your privacy and keep things simple.
+
+Information We Collect
+We don't store any information of the users.
+• No account or sign‑up is required.
+• No personal data (such as name, email, phone number, device ID) is collected or stored by KiboNews.
+• No analytics, tracking, or profiling is used by KiboNews.
+
+Local App Settings
+KiboNews may store basic preferences locally on your device (for example: language, theme, ad‑blocker setting) to provide expected functionality. These settings remain on your device and are not transmitted to us.
+
+Third‑Party Content
+KiboNews displays news articles and media that are hosted by external publishers. When you open or read an article, your device may connect to those publishers’ websites and content delivery networks. Any data collected by those third‑party sites is governed by their own privacy policies. KiboNews does not control or store data from third‑party sites.
+
+External Links and Sharing
+When you open links (e.g., “Learn more”, app store links) KiboNews uses your device’s system browser or store app to open them. When you share a link, it is handed to your device’s share sheet. KiboNews does not collect or store this information.
+
+Advertising
+KiboNews does not show ads. The built‑in ad blocker aims to reduce intrusive scripts and visual clutter in article pages. Blocking behavior happens on‑device and does not send data to us.
+
+Changes
+If we make changes to this Privacy Policy, we will update this text file accordingly.
+
